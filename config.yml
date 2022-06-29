@@ -1,0 +1,19 @@
+elixirsoulmaterial: NETHER_STAR
+soulglowing: true
+soulname: '&cElixirSoul Level <Level>'
+soullore:
+- '&casucha'
+- '&asdas'
+elixirremovalmaterial: GHAST_TEAR
+removalglowing: true
+removalname: '&eSoul Removal'
+removallore:
+- '&cacascascsucha'
+- '&asdascascsas'
+soulboundablematerials:
+- DIAMOND_SWORD
+soulboundlore: '&4Item is Bounded <left>/<max>'
+addsoulboundsuccessfully: '&aAdded SoulBound to your <Item>'
+removesoulboundsuccessfully: '&cRemoved SoulBound from your <Item>'
+outofsoul: '&cYour <Item> is out of soul , It"ll drop if you die again'
+youritemissoulbounded: '&cYour <Item> Is Already SoulBounded'

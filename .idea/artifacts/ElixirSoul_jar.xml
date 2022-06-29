@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ElixirSoul:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ElixirSoul_jar</output-path>
+    <root id="archive" name="ElixirSoul.jar">
+      <element id="module-output" name="ElixirSoul" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ElixirServer Test/PaperSpigot-api-1.8.8-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../ElixirServer Test/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

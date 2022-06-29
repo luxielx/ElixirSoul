@@ -1,0 +1,7 @@
+name: ElixirSoul
+main: SolarFavor.Main
+version: 1
+commands:
+    sb:
+        description: Such Wow , much Wow
+
